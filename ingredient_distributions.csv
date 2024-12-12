@@ -1,1 +1,123 @@
-ingredient, mean, variance
+ingredient               ,mean  ,variance ,metric
+lemon                    ,0.25  ,0.125    ,lb
+cream                    ,0.3   ,0.8      ,lb
+yogurt                   ,.5    ,0.3      ,lb
+vanilla                  ,      ,         ,lb
+shrimp                   ,      ,         ,lb
+cilantro                 ,      ,         ,lb
+jalapeno                 ,      ,         ,lb
+parsley                  ,      ,         ,lb
+vinegar                  ,      ,         ,lb
+tortillas                ,      ,         ,lb
+red pepper               ,      ,         ,lb
+fish                     ,      ,         ,lb
+avocado                  ,      ,         ,lb
+lime                     ,      ,         ,lb
+chicken stock            ,      ,         ,lb
+parmesan                 ,      ,         ,lb
+vegetable stock          ,      ,         ,lb
+beef stock               ,      ,         ,lb
+garam masala             ,      ,         ,lb
+spinach                  ,      ,         ,lb
+soy sauce                ,      ,         ,lb
+flour                    ,      ,         ,lb
+rice                     ,      ,         ,lb
+spaghetti                ,      ,         ,lb
+"bread, white"           ,      ,         ,lb
+"bread, whole wheat"     ,      ,         ,lb
+cookies                  ,      ,         ,lb
+ground chuck beef        ,      ,         ,lb
+ground beef              ,      ,         ,lb
+ground beef extra lean   ,      ,         ,lb
+chuck roast              ,      ,         ,lb
+chuck roast boneless     ,      ,         ,lb
+round roast boneless     ,      ,         ,lb
+round roast              ,      ,         ,lb
+beef for stew            ,      ,         ,lb
+steak                    ,      ,         ,lb
+sirloin steak            ,      ,         ,lb
+bacon                    ,      ,         ,lb
+pork chops bone-in       ,      ,         ,lb
+pork chops boneless      ,      ,         ,lb
+ham                      ,      ,         ,lb
+ham                      ,      ,         ,lb
+bologna                  ,      ,         ,lb
+whole chicken            ,      ,         ,lb
+chicken breast bone-in   ,      ,         ,lb
+chicken legs             ,      ,         ,lb
+turket                   ,      ,         ,lb
+eggs                     ,      ,         ,dozen
+milk                     ,      ,         ,gal
+butter                   ,      ,         ,lb
+american cheese          ,      ,         ,lb
+cheddar cheese           ,      ,         ,lb
+ice cream                ,      ,         ,lb
+apples                   ,      ,         ,lb
+banana                   ,      ,         ,lb
+orange                   ,      ,         ,lb
+grapefruit               ,      ,         ,lb
+lemon                    ,      ,         ,lb
+pear                     ,      ,         ,lb
+peach                    ,      ,         ,lb
+strawberry               ,      ,         ,12 oz
+grapes                   ,      ,         ,lb
+cherries                 ,      ,         ,lb
+potatoe                  ,      ,         ,lb
+iceburg lettuce          ,      ,         ,lb
+tomato                   ,      ,         ,lb
+cabbage                  ,      ,         ,lb
+celery                   ,      ,         ,lb
+pepper                   ,      ,         ,lb
+brocolli                 ,      ,         ,lb
+orange juice             ,      ,         ,12 oz
+bean                     ,      ,         ,lb
+sugar                    ,      ,         ,lb
+margarine                ,      ,         ,lb
+peanut butter            ,      ,         ,lb
+coffee                   ,      ,         ,lb
+wine                     ,      ,         ,lb
+all uncooked ground beef ,      ,         ,lb
+all uncooked beef roasts ,      ,         ,lb
+other steaks             ,      ,         ,lb
+other beefs              ,      ,         ,lb
+other pork chops         ,      ,         ,lb
+other pork               ,      ,         ,lb
+chicken breast boneless  ,      ,         ,lb
+romaine lettuce          ,      ,         ,lb
+salt                     ,      ,         ,oz
+pepper                   ,      ,         ,oz
+cinnamon                 ,      ,         ,oz
+paprika                  ,      ,         ,oz
+garlic powder            ,      ,         ,oz
+onion powder             ,      ,         ,oz
+turmeric                 ,      ,         ,oz
+ginger                   ,      ,         ,oz
+cumin                    ,      ,         ,oz
+oregano                  ,      ,         ,oz
+basil                    ,      ,         ,oz
+thyme                    ,      ,         ,oz
+parsley                  ,      ,         ,oz
+nutmeg                   ,      ,         ,oz
+cloves                   ,      ,         ,oz
+tomatoes                 ,      ,         ,lb
+black pepper             ,      ,         ,oz
+chili                    ,      ,         ,each
+coriander                ,      ,         ,oz
+jalapenos                ,      ,         ,each
+mango                    ,      ,         ,each
+oil                      ,      ,         ,bottle
+olives                   ,      ,         ,jar
+onions                   ,      ,         ,lb
+peppers                  ,      ,         ,lb
+pork loin                ,      ,         ,lb
+tomatoes                 ,      ,         ,lb
+black pepper             ,      ,         ,oz
+chili                    ,      ,         ,each
+coriander                ,      ,         ,oz
+jalapenos                ,      ,         ,each
+mango                    ,      ,         ,each
+oil                      ,      ,         ,bottle
+olives                   ,      ,         ,jar
+onions                   ,      ,         ,lb
+peppers                  ,      ,         ,lb
+pork loin                ,      ,         ,lb
