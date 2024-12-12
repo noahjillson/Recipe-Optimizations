@@ -1,0 +1,211 @@
+[
+    {
+        "id": 10259,
+        "cuisine": "greek",
+        "ingredients": [
+            "lettuce",
+            "tomatoes",
+            "garlic",
+            "pepper",
+            "onion",
+            "cumin",
+            "coriander",
+            "bean",
+            "cheese"
+        ]
+    },
+    {
+        "id": 25693,
+        "cuisine": "southern_us",
+        "ingredients": [
+            "flour",
+            "pepper",
+            "salt",
+            "tomatoes",
+            "black pepper",
+            "thyme",
+            "eggs",
+            "milk",
+            "oil"
+        ]
+    },
+    {
+        "id": 20130,
+        "cuisine": "filipino",
+        "ingredients": [
+            "eggs",
+            "pepper",
+            "salt",
+            "oil",
+            "chili",
+            "chicken breast",
+            "garlic",
+            "onion",
+            "butter",
+            "whole chicken"
+        ]
+    },
+    {
+        "id": 6602,
+        "cuisine": "jamaican",
+        "ingredients": [
+            "flour",
+            "sugar",
+            "butter",
+            "eggs",
+            "ginger",
+            "salt",
+            "cinnamon",
+            "milk",
+            "vanilla"
+        ]
+    },
+    {
+        "id": 42779,
+        "cuisine": "spanish",
+        "ingredients": [
+            "oil",
+            "salt",
+            "shrimp",
+            "pepper",
+            "garlic",
+            "cilantro",
+            "parsley",
+            "sirloin steak",
+            "vinegar",
+            "salt",
+            "ham"
+        ]
+    },
+    {
+        "id": 16903,
+        "cuisine": "mexican",
+        "ingredients": [
+            "oil",
+            "onion",
+            "pork chops",
+            "peppers",
+            "jalapenos",
+            "tortillas",
+            "cheddar cheese",
+            "black pepper",
+            "salt",
+            "lettuce",
+            "chili",
+            "cilantro"
+        ]
+    },
+    {
+        "id": 45887,
+        "cuisine": "chinese",
+        "ingredients": [
+            "ginger",
+            "bean",
+            "black pepper",
+            "oil",
+            "sugar",
+            "wine",
+            "garlic",
+            "ground beef extra lean",
+            "red pepper"
+        ]
+    },
+    {
+        "id": 2698,
+        "cuisine": "italian",
+        "ingredients": [
+            "parsley",
+            "red pepper",
+            "oil",
+            "lemon",
+            "fish",
+            "garlic",
+            "chili",
+            "salt",
+            "parsley"
+        ]
+    },
+    {
+        "id": 41995,
+        "cuisine": "mexican",
+        "ingredients": [
+            "cinnamon",
+            "cilantro",
+            "chili",
+            "coriander",
+            "salt",
+            "black pepper",
+            "garlic",
+            "tomatoes",
+            "avocado",
+            "lime",
+            "steak",
+            "salt",
+            "cumin",
+            "black pepper",
+            "oil",
+            "onions"
+        ]
+    },
+    {
+        "id": 31908,
+        "cuisine": "italian",
+        "ingredients": [
+            "parmesan",
+            "butter",
+            "flour",
+            "chicken stock",
+            "cheese",
+            "black pepper",
+            "bacon",
+            "spaghetti",
+            "milk",
+            "oil",
+            "salt"
+        ]
+    },
+    {
+        "id": 13121,
+        "cuisine": "thai",
+        "ingredients": [
+            "pork loin",
+            "peanut butter",
+            "cilantro",
+            "basil",
+            "rice",
+            "shrimp",
+            "bean"
+        ]
+    },
+    {
+        "id": 49136,
+        "cuisine": "italian",
+        "ingredients": [
+            "tomatoes",
+            "butter",
+            "parsley",
+            "oil",
+            "spaghetti",
+            "bacon",
+            "red pepper",
+            "olives",
+            "lemon",
+            "garlic"
+        ]
+    },
+    {
+        "id": 27976,
+        "cuisine": "cajun_creole",
+        "ingredients": [
+            "lemon",
+            "tomatoes",
+            "paprika",
+            "mango",
+            "chicken stock",
+            "chili",
+            "onions",
+            "peppers",
+            "oil"
+        ]
+    }
+]
