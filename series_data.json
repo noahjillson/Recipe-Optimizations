@@ -1,0 +1,266 @@
+{
+    "APU0000701111": {
+        "name": "Flour",
+        "metric": "lb"
+    },
+    "APU0000701312": {
+        "name": "Rice",
+        "metric": "lb"
+    },
+    "APU0000701322": {
+        "name": "Spaghetti",
+        "metric": "lb"
+    },
+    "APU0000702111": {
+        "name": "Bread, white",
+        "metric": "lb"
+    },
+    "APU0000702212": {
+        "name": "Bread, whole wheat",
+        "metric": "lb"
+    },
+    "APU0000702421": {
+        "name": "Cookies",
+        "metric": "lb"
+    },
+    "APU0000703111": {
+        "name": "Ground chuck beef",
+        "metric": "lb"
+    },
+    "APU0000703112": {
+        "name": "ground beef",
+        "metric": "lb"
+    },
+    "APU0000703113": {
+        "name": "ground beef extra lean",
+        "metric": "lb"
+    },
+    "APU0000FC1101": {
+        "name": "all uncooked ground beef",
+        "metric": "lb"
+    },
+    "APU0000703212": {
+        "name": "chuck roast",
+        "metric": "lb"
+    },
+    "APU0000703213": {
+        "name": "chuck roast boneless",
+        "metric": "lb"
+    },
+    "APU0000703311": {
+        "name": "Round roast boneless",
+        "metric": "lb"
+    },
+    "APU0000703312": {
+        "name": "round roast",
+        "metric": "lb"
+    },
+    "APU0000FC2101": {
+        "name": "All uncooked beef roasts",
+        "metric": "lb"
+    },
+    "APU0000703511": {
+        "name": "steak",
+        "metric": "lb"
+    },
+    "APU0000703612": {
+        "name": "sirloin steak",
+        "metric": "lb"
+    },
+    "APU0000703613": {
+        "name": "",
+        "metric": ""
+    },
+    "APU0000703432": {
+        "name": "beef for stew",
+        "metric": "lb"
+    },
+    "APU0000FC3101": {
+        "name": "other steaks",
+        "metric": "lb"
+    },
+    "APU0000FC4101": {
+        "name": "other beefs",
+        "metric": "lb"
+    },
+    "APU0000704111": {
+        "name": "bacon",
+        "metric": "lb"
+    },
+    "APU0000704211": {
+        "name": "pork chops bone-in",
+        "metric": "lb"
+    },
+    "APU0000704212": {
+        "name": "pork chops boneless",
+        "metric": "lb"
+    },
+    "APU0000FD3101": {
+        "name": "other pork chops",
+        "metric": "lb"
+    },
+    "APU0000704311": {
+        "name": "ham",
+        "metric": "lb"
+    },
+    "APU0000704312": {
+        "name": "ham",
+        "metric": "lb"
+    },
+    "APU0000FD4101": {
+        "name": "other pork",
+        "metric": "lb"
+    },
+    "APU0000705121": {
+        "name": "bologna",
+        "metric": "lb"
+    },
+    "APU0000706111": {
+        "name": "whole chicken",
+        "metric": "lb"
+    },
+    "APU0000706211": {
+        "name": "chicken breast bone-in",
+        "metric": "lb"
+    },
+    "APU0000FF1101": {
+        "name": "chicken breast boneless",
+        "metric": "lb"
+    },
+    "APU0000706212": {
+        "name": "chicken legs",
+        "metric": "lb"
+    },
+    "APU0000706311": {
+        "name": "turket",
+        "metric": "lb"
+    },
+    "APU0000708111": {
+        "name": "eggs",
+        "metric": "dozen"
+    },
+    "APU0000709112": {
+        "name": "milk",
+        "metric": "gal"
+    },
+    "APU0000710111": {
+        "name": "butter",
+        "metric": "lb"
+    },
+    "APU0000710211": {
+        "name": "American cheese",
+        "metric": "lb"
+    },
+    "APU0000710212": {
+        "name": "cheddar cheese",
+        "metric": "lb"
+    },
+    "APU0000710411": {
+        "name": "Ice cream",
+        "metric": "lb"
+    },
+    "APU0000711111": {
+        "name": "Apples",
+        "metric": "lb"
+    },
+    "APU0000711211": {
+        "name": "banana",
+        "metric": "lb"
+    },
+    "APU0000711311": {
+        "name": "orange",
+        "metric": "lb"
+    },
+    "APU0000711418": {
+        "name": "cherries",
+        "metric": "lb"
+    },
+    "APU0000711411": {
+        "name": "grapefruit",
+        "metric": "lb"
+    },
+    "APU0000711417": {
+        "name": "grapes",
+        "metric": "lb"
+    },
+    "APU0000711412": {
+        "name": "lemon",
+        "metric": "lb"
+    },
+    "APU0000711414": {
+        "name": "peach",
+        "metric": "lb"
+    },
+    "APU0000711413": {
+        "name": "pear",
+        "metric": "lb"
+    },
+    "APU0000711415": {
+        "name": "strawberry",
+        "metric": "12 oz"
+    },
+    "APU0000712112": {
+        "name": "potatoe",
+        "metric": "lb"
+    },
+    "APU0000712211": {
+        "name": "iceburg lettuce",
+        "metric": "lb"
+    },
+    "APU0000FL2101": {
+        "name": "romaine lettuce",
+        "metric": "lb"
+    },
+    "APU0000712311": {
+        "name": "tomato",
+        "metric": "lb"
+    },
+    "APU0000712412": {
+        "name": "brocolli",
+        "metric": "lb"
+    },
+    "APU0000712401": {
+        "name": "cabbage",
+        "metric": "lb"
+    },
+    "APU0000712403": {
+        "name": "carrot",
+        "metric": "lb"
+    },
+    "APU0000712402": {
+        "name": "celery",
+        "metric": "lb"
+    },
+    "APU0000712406": {
+        "name": "pepper",
+        "metric": "lb"
+    },
+    "APU0000713111": {
+        "name": "orange juice",
+        "metric": "12 oz"
+    },
+    "APU0000714233": {
+        "name": "bean",
+        "metric": "lb"
+    },
+    "APU0000715211": {
+        "name": "sugar",
+        "metric": "lb"
+    },
+    "APU0000716114": {
+        "name": "margarine",
+        "metric": "lb"
+    },
+    "APU0000716141": {
+        "name": "peanut butter",
+        "metric": "lb"
+    },
+    "APU0000717311": {
+        "name": "coffee",
+        "metric": "lb"
+    },
+    "APU0000720311": {
+        "name": "wine",
+        "metric": "lb"
+    }
+}

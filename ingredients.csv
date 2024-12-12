@@ -1,0 +1,79 @@
+,price,ingredient,metric
+0,0.528,flour,lb
+1,0.755,rice,lb
+2,1.248,spaghetti,lb
+3,1.49,"bread, white",lb
+4,1.938,"bread, whole wheat",lb
+5,3.317,cookies,lb
+6,3.211,ground chuck beef,lb
+7,2.774,ground beef,lb
+8,3.878,ground beef extra lean,lb
+9,3.64,chuck roast,lb
+10,4.306,chuck roast boneless,lb
+11,4.429,round roast boneless,lb
+12,4.125,round roast,lb
+13,4.326,beef for stew,lb
+14,4.554,steak,lb
+15,5.271,sirloin steak,lb
+17,4.84,bacon,lb
+18,3.737,pork chops bone-in,lb
+19,4.065,pork chops boneless,lb
+20,2.294,ham,lb
+21,3.522,ham,lb
+22,3.033,bologna,lb
+23,1.305,whole chicken,lb
+24,2.307,chicken breast bone-in,lb
+25,1.452,chicken legs,lb
+26,1.581,turket,lb
+27,1.683,eggs,dozen
+28,3.622,milk,gal
+29,3.605,butter,lb
+30,3.922,american cheese,lb
+31,5.443,cheddar cheese,lb
+32,4.854,ice cream,lb
+33,1.317,apples,lb
+34,0.614,banana,lb
+35,1.014,orange,lb
+36,1.055,grapefruit,lb
+37,1.465,lemon,lb
+38,1.389,pear,lb
+39,1.767,peach,lb
+40,1.613,strawberry,12 oz
+41,2.378,grapes,lb
+42,3.828,cherries,lb
+43,0.685,potatoe,lb
+44,0.967,iceburg lettuce,lb
+45,1.559,tomatoes,lb
+46,0.687,cabbage,lb
+47,1.018,celery,lb
+49,2.521,peppers,lb
+50,1.758,brocolli,lb
+51,2.634,orange juice,12 oz
+52,1.376,bean,lb
+53,0.684,sugar,lb
+54,1.153,margarine,lb
+55,1.961,peanut butter,lb
+56,5.234,coffee,lb
+57,11.928,wine,lb
+58,3.497,all uncooked ground beef,lb
+59,4.439,all uncooked beef roasts,lb
+60,5.833,other steaks,lb
+61,3.865,other beefs,lb
+62,3.55,other pork chops,lb
+63,2.566,other pork,lb
+64,3.127,chicken breast,lb
+65,1.638,romaine lettuce,lb
+0,2.5,salt,oz
+2,5.0,cinnamon,oz
+3,3.5,paprika,oz
+4,4.5,garlic powder,oz
+5,4.25,onion powder,oz
+6,6.0,turmeric,oz
+7,5.5,ginger,oz
+8,4.75,cumin,oz
+9,3.75,oregano,oz
+10,3.25,basil,oz
+11,3.75,thyme,oz
+12,3.0,parsley,oz
+13,6.5,nutmeg,oz
+14,7.0,cloves,oz
