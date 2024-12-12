@@ -207,5 +207,68 @@
             "peppers",
             "oil"
         ]
+    },
+    {
+        "id": 1,
+        "cuisine": "cajun_creole",
+        "ingredients": [
+            "lemon"
+        ]
+    }
+    ,
+    {
+        "id": 8,
+        "cuisine": "cajun_creole",
+        "ingredients": [
+            "lemon"
+        ]
+    }
+    ,
+    {
+        "id": 7,
+        "cuisine": "cajun_creole",
+        "ingredients": [
+            "lemon"
+        ]
+    }
+    ,
+    {
+        "id": 6,
+        "cuisine": "cajun_creole",
+        "ingredients": [
+            "lemon"
+        ]
+    }
+    ,
+    {
+        "id": 5,
+        "cuisine": "cajun_creole",
+        "ingredients": [
+            "lemon"
+        ]
+    }
+    ,
+    {
+        "id": 4,
+        "cuisine": "cajun_creole",
+        "ingredients": [
+            "lemon"
+        ]
+    }
+    ,
+    {
+        "id": 3,
+        "cuisine": "cajun_creole",
+        "ingredients": [
+            "lemon"
+        ]
+    }
+    ,
+    {
+        "id": 2,
+        "cuisine": "cajun_creole",
+        "ingredients": [
+            "lemon"
+        ]
     }
 ]
