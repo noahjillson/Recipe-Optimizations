@@ -908,7 +908,7 @@
         "cuisine": "japanese",
         "ingredients": [
             "pepper",
-            "panko breadcrumbs",
+            "butter",
             "flour",
             "oil",
             "salt",
@@ -916,7 +916,7 @@
             "steak"
         ],
         "quantities": [
-            "0.01",
+            "0.04",
             "1.00",
             "0.52",
             "0.07",
@@ -3291,7 +3291,7 @@
             "baking soda",
             "baking powder",
             "rosemary ",
-            "lean steak",
+            "steak",
             "flour",
             "buttermilk",
             "Beer",
