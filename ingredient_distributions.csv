@@ -1,139 +1,139 @@
-ingredient               ,mean  ,variance ,metric
-lemon                    ,0.25  ,0.1      ,lb
-cream                    ,1     ,0.5      ,lb
-yogurt                   ,.125  ,0.2      ,lb
-vanilla                  ,.03   ,.02      ,lb
-shrimp                   ,.5    ,1        ,lb
-cilantro                 ,.05   ,.15      ,lb
-jalapeno                 ,.1    ,.1       ,lb
-parsley                  ,.05   ,.15      ,lb
-vinegar                  ,0.1   ,0.25     ,lb
-tortillas                ,0.3   ,0.4      ,lb
-red pepper               ,.03   ,.02      ,lb
-fish                     ,1     ,0.5      ,lb
-avocado                  ,.2    ,0.2      ,lb
-lime                     ,.125  ,.14      ,lb
-chicken stock            ,2.8   ,1        ,lb
-parmesan                 ,.1    ,.09      ,lb
-vegetable stock          ,2.5   ,1.1      ,lb
-beef stock               ,2.7   ,1.4      ,lb
-garam masala             ,.09   ,.05      ,lb
-spinach                  ,.4    ,.3       ,lb
-soy sauce                ,.1    ,.05      ,lb
-flour                    ,.2    ,.3       ,lb
-rice                     ,.45   ,.4       ,lb
-spaghetti                ,.6    ,.2       ,lb
-"bread, white"           ,.19   ,.2       ,lb
-"bread, whole wheat"     ,.19   ,.2       ,lb
-cookies                  ,.2    ,.1       ,lb
-ground chuck beef        ,1.125 ,.5       ,lb
-ground beef              ,1.125 ,.5       ,lb
-ground beef extra lean   ,1.125 ,.5       ,lb
-chuck roast              ,1.8   ,1        ,lb
-chuck roast boneless     ,1.5   ,1        ,lb
-round roast boneless     ,1.5   ,1        ,lb
-round roast              ,1.125 ,.6       ,lb
-beef for stew            ,2     ,.5       ,lb
-steak                    ,1.125 ,.25      ,lb
-sirloin steak            ,1.1   ,.25      ,lb
-bacon                    ,.3    ,.1       ,lb
-pork chops bone-in       ,1.8   ,.3       ,lb
-pork chops boneless      ,1.2   ,.3       ,lb
-ham                      ,.26   ,.05      ,lb
-bologna                  ,.16   ,.3       ,lb
-whole chicken            ,2.25  ,.7       ,lb
-chicken breast bone-in   ,2     ,.4       ,lb
-chicken legs             ,1.8   ,.4       ,lb
-turket                   ,1     ,.5       ,lb
-eggs                     ,.16   ,.16      ,dozen
-milk                     ,.125  ,.125     ,gal
-butter                   ,.12   ,.06      ,lb
-american cheese          ,.12   ,.04      ,lb
-cheddar cheese           ,.2    ,.1       ,lb
-ice cream                ,.17   ,.2       ,lb
-apples                   ,.33   ,.66      ,lb
-banana                   ,.16   ,.1       ,lb
-orange                   ,.5    ,1        ,lb
-grapefruit               ,1.2   ,.3       ,lb
-pear                     ,.8    ,.4       ,lb
-peach                    ,1     ,.4       ,lb
-strawberry               ,.35   ,.14      ,12 oz
-grapes                   ,.4    ,.2       ,lb
-cherries                 ,.7    ,.3       ,lb
-potatoe                  ,1.3   ,.8       ,lb
-iceburg lettuce          ,.1    ,.5       ,lb
-tomato                   ,1     ,1        ,lb
-cabbage                  ,1.1   ,.7       ,lb
-celery                   ,.4    ,.3       ,lb
-pepper                   ,.3    ,.3       ,lb
-brocolli                 ,1     ,.4       ,lb
-orange juice             ,.32   ,.1       ,12 oz
-bean                     ,.78   ,.4       ,lb
-sugar                    ,.2    ,.1       ,lb
-margarine                ,.1    ,.1       ,lb
-peanut butter            ,.27   ,.3       ,lb
-coffee                   ,.11   ,.08      ,lb
-wine                     ,.4    ,.4       ,lb
-all uncooked ground beef ,1.1   ,.25      ,lb
-all uncooked beef roasts ,1.1   ,.35      ,lb
-other steaks             ,1.5   ,.3       ,lb
-other beefs              ,1.8   ,.9       ,lb
-other pork chops         ,2     ,.3       ,lb
-other pork               ,.8    ,.2       ,lb
-chicken breast boneless  ,1     ,.16      ,lb
-romaine lettuce          ,.3    ,.06      ,lb
-salt                     ,.12   ,.1       ,oz
-cinnamon                 ,.13   ,.1       ,oz
-paprika                  ,.12   ,.12      ,oz
-garlic powder            ,.12   ,.03      ,oz
-onion powder             ,.1    ,.05      ,oz
-turmeric                 ,.14   ,.01      ,oz
-ginger                   ,.18   ,.1       ,oz
-cumin                    ,.16   ,.1       ,oz
-oregano                  ,.25   ,.05      ,oz
-basil                    ,.35   ,.23      ,oz
-thyme                    ,.5    ,.2       ,oz
-nutmeg                   ,.1    ,.1       ,oz
-cloves                   ,.2    ,.125     ,oz
-tomatoes                 ,.7    ,.4       ,lb
-black pepper             ,.08   ,.1       ,oz
-chili                    ,1.4   ,.5       ,each
-coriander                ,.1    ,.03      ,oz
-jalapenos                ,1     ,2        ,each
-mango                    ,1.2   ,.4       ,each
-oil                      ,.05   ,.01      ,bottle
-olives                   ,.25   ,.125     ,jar
-onions                   ,.7    ,.4       ,lb
-peppers                  ,1     ,.4       ,lb
-pork loin                ,1     ,.3       ,lb
-buttermilk               ,.53   ,.235     ,lb
-corn flakes cereal       ,.23   ,.1       ,lb
-beer                     ,.8    ,.8       ,lb
-bay leaves               ,.01   ,.01      ,lb
-asparagus                ,1     ,.17      ,lb
-pears                    ,.8    ,.4       ,lb
-green onions             ,.005  ,.01      ,lb
-purple onions            ,.7    ,.4       ,lb
-white onions             ,.7    ,.4       ,lb
-baking powder            ,.1    ,.022,lb
-sweet potatoes           ,1.3   ,.8       ,lb
-balsamic vinegar         ,.2    ,.2       ,lb
-salmon                   ,1.2   ,.5       ,lb
-black beans              ,1     ,.5       ,lb
-baking soda              ,.1    ,.04      ,lb
-bay leaf                 ,.01   ,.01      ,lb
-beans                    ,1     ,.5       ,lb
-bok choy                 ,1     ,.22      ,lb
-bell pepper              ,1     ,.22      ,lb
-sesame seeds             ,.2    ,.1       ,lb
-sesame oil               ,.28   ,.1       ,lb
-brown sugar              ,.145  ,.2       ,lb
-vegetable oil            ,.2    ,.1       ,lb
-olive oil                ,.08   ,.05      ,lb
-shallots                 ,.3    ,.1       ,lb
-carrots                  ,.65   ,.3       ,lb
-capers                   ,.02   ,.08      ,lb
-cardamom                 ,.14   ,.07      ,lb
-mozarella cheese         ,.7    ,.46      ,lb
-chicken broth            ,2.8   ,1        ,lb
-chicken breast           ,1     ,.3       ,lb
+ingredient,mean,variance,metric
+lemon,0.25,0.1,lb
+cream,1,0.5,lb
+yogurt,.125,0.2,lb
+vanilla,.03,.02,lb
+shrimp,.5,1,lb
+cilantro,.05,.15,lb
+jalapeno,.1,.1,lb
+parsley,.05,.15,lb
+vinegar,0.1,0.25,lb
+tortillas,0.3,0.4,lb
+red pepper,.03,.02,lb
+fish,1,0.5,lb
+avocado,.2,0.2,lb
+lime,.125,.14,lb
+chicken stock,2.8,1,lb
+parmesan,.1,.09,lb
+vegetable stock,2.5,1.1,lb
+beef stock,2.7,1.4,lb
+garam masala,.09,.05,lb
+spinach,.4,.3,lb
+soy sauce,.1,.05,lb
+flour,.2,.3,lb
+rice,.45,.4,lb
+spaghetti,.6,.2,lb
+"bread, white",.19,.2,lb
+"bread, whole wheat",.19,.2,lb
+cookies,.2,.1,lb
+ground chuck beef,1.125,.5,lb
+ground beef,1.125,.5,lb
+ground beef extra lean,1.125,.5,lb
+chuck roast,1.8,1,lb
+chuck roast boneless,1.5,1,lb
+round roast boneless,1.5,1,lb
+round roast,1.125,.6,lb
+beef for stew,2,.5,lb
+steak,1.125,.25,lb
+sirloin steak,1.1,.25,lb
+bacon,.3,.1,lb
+pork chops bone-in,1.8,.3,lb
+pork chops boneless,1.2,.3,lb
+ham,.26,.05,lb
+bologna,.16,.3,lb
+whole chicken,2.25,.7,lb
+chicken breast bone-in,2,.4,lb
+chicken legs,1.8,.4,lb
+turket,1,.5,lb
+eggs,.16,.16,dozen
+milk,.125,.125,gal
+butter,.12,.06,lb
+american cheese,.12,.04,lb
+cheddar cheese,.2,.1,lb
+ice cream,.17,.2,lb
+apples,.33,.66,lb
+banana,.16,.1,lb
+orange,.5,1,lb
+grapefruit,1.2,.3,lb
+pear,.8,.4,lb
+peach,1,.4,lb
+strawberry,.35,.14,12 oz
+grapes,.4,.2,lb
+cherries,.7,.3,lb
+potatoe,1.3,.8,lb
+iceburg lettuce,.1,.5,lb
+tomato,1,1,lb
+cabbage,1.1,.7,lb
+celery,.4,.3,lb
+pepper,.3,.3,lb
+brocolli,1,.4,lb
+orange juice,.32,.1,12 oz
+bean,.78,.4,lb
+sugar,.2,.1,lb
+margarine,.1,.1,lb
+peanut butter,.27,.3,lb
+coffee,.11,.08,lb
+wine,.4,.4,lb
+all uncooked ground beef,1.1,.25,lb
+all uncooked beef roasts,1.1,.35,lb
+other steaks,1.5,.3,lb
+other beefs,1.8,.9,lb
+other pork chops,2,.3,lb
+other pork,.8,.2,lb
+chicken breast boneless,1,.16,lb
+romaine lettuce,.3,.06,lb
+salt,.12,.1,oz
+cinnamon,.13,.1,oz
+paprika,.12,.12,oz
+garlic powder,.12,.03,oz
+onion powder,.1,.05,oz
+turmeric,.14,.01,oz
+ginger,.18,.1,oz
+cumin,.16,.1,oz
+oregano,.25,.05,oz
+basil,.35,.23,oz
+thyme,.5,.2,oz
+nutmeg,.1,.1,oz
+cloves,.2,.125,oz
+tomatoes,.7,.4,lb
+black pepper,.08,.1,oz
+chili,1.4,.5,each
+coriander,.1,.03,oz
+jalapenos,1,2,each
+mango,1.2,.4,each
+oil,.05,.01,bottle
+olives,.25,.125,jar
+onions,.7,.4,lb
+peppers,1,.4,lb
+pork loin,1,.3,lb
+buttermilk,.53,.235,lb
+corn flakes cereal,.23,.1,lb
+beer,.8,.8,lb
+bay leaves,.01,.01,lb
+asparagus,1,.17,lb
+pears,.8,.4,lb
+green onions,.005,.01,lb
+purple onions,.7,.4,lb
+white onions,.7,.4,lb
+baking powder,.1,.022,lb
+sweet potatoes,1.3,.8,lb
+balsamic vinegar,.2,.2,lb
+salmon,1.2,.5,lb
+black beans,1,.5,lb
+baking soda,.1,.04,lb
+bay leaf,.01,.01,lb
+beans,1,.5,lb
+bok choy,1,.22,lb
+bell pepper,1,.22,lb
+sesame seeds,.2,.1,lb
+sesame oil,.28,.1,lb
+brown sugar,.145,.2,lb
+vegetable oil,.2,.1,lb
+olive oil,.08,.05,lb
+shallots,.3,.1,lb
+carrots,.65,.3,lb
+capers,.02,.08,lb
+cardamom,.14,.07,lb
+mozarella cheese,.7,.46,lb
+chicken broth,2.8,1,lb
+chicken breast,1,.3,lb
