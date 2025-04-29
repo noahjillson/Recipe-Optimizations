@@ -1,139 +1,139 @@
-,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,ingredient,price,metric
-0,0.0,0.0,0.0,lemon,0.99,lb
-1,1.0,1.0,1.0,cream,15.96,lb
-2,2.0,2.0,2.0,yogurt,4.46,lb
-3,3.0,3.0,3.0,vanilla,111.84,lb
-4,4.0,4.0,4.0,shrimp,12.99,lb
-5,5.0,5.0,5.0,cilantro,4.33,lb
-6,6.0,6.0,6.0,jalapeno,1.15,lb
-7,7.0,7.0,7.0,parsley,4.97,lb
-8,8.0,8.0,8.0,vinegar,1.24,lb
-9,9.0,9.0,9.0,tortillas,4.78,lb
-10,10.0,10.0,10.0,red pepper,1.5,lb
-11,11.0,11.0,11.0,fish,9.99,lb
-12,12.0,12.0,12.0,avocado,2.58,lb
-13,13.0,13.0,13.0,lime,2.0,lb
-14,14.0,14.0,14.0,chicken stock,0.7,lb
-15,15.0,15.0,15.0,parmesan,4.99,lb
-16,16.0,16.0,16.0,vegetable stock,0.7,lb
-17,17.0,17.0,17.0,beef stock,0.7,lb
-18,18.0,18.0,18.0,garam masala,79.88,lb
-19,19.0,19.0,19.0,spinach,2.99,lb
-20,20.0,20.0,20.0,soy sauce,1.49,lb
-21,21.0,21.0,21.0,flour,0.528,lb
-22,22.0,22.0,22.0,rice,0.755,lb
-23,23.0,23.0,23.0,spaghetti,1.248,lb
-24,24.0,24.0,24.0,"bread, white",1.49,lb
-25,25.0,25.0,25.0,"bread, whole wheat",1.938,lb
-26,26.0,26.0,26.0,cookies,3.317,lb
-27,27.0,27.0,27.0,ground chuck beef,3.211,lb
-28,28.0,28.0,28.0,ground beef,2.774,lb
-29,29.0,29.0,29.0,ground beef extra lean,3.878,lb
-30,30.0,30.0,30.0,chuck roast,3.64,lb
-31,31.0,31.0,31.0,chuck roast boneless,4.306,lb
-32,32.0,32.0,32.0,round roast boneless,4.429,lb
-33,33.0,33.0,33.0,round roast,4.125,lb
-34,34.0,34.0,34.0,beef for stew,4.326,lb
-35,35.0,35.0,35.0,steak,4.554,lb
-36,36.0,36.0,36.0,sirloin steak,5.271,lb
-37,37.0,37.0,37.0,bacon,4.84,lb
-38,38.0,38.0,38.0,pork chops bone-in,3.737,lb
-39,39.0,39.0,39.0,pork chops boneless,4.065,lb
-40,40.0,40.0,40.0,ham,2.294,lb
-41,41.0,41.0,41.0,bologna,3.033,lb
-42,42.0,42.0,42.0,whole chicken,1.305,lb
-43,43.0,43.0,43.0,chicken breast bone-in,2.307,lb
-44,44.0,44.0,44.0,chicken legs,1.452,lb
-45,45.0,45.0,45.0,turket,1.581,lb
-46,46.0,46.0,46.0,eggs,1.683,dozen
-47,47.0,47.0,47.0,milk,3.622,gal
-48,48.0,48.0,48.0,butter,3.605,lb
-49,49.0,49.0,49.0,american cheese,3.922,lb
-50,50.0,50.0,50.0,cheddar cheese,5.443,lb
-51,51.0,51.0,51.0,ice cream,4.854,lb
-52,52.0,52.0,52.0,apples,1.317,lb
-53,53.0,53.0,53.0,banana,0.614,lb
-54,54.0,54.0,54.0,orange,1.014,lb
-55,55.0,55.0,55.0,grapefruit,1.055,lb
-56,56.0,56.0,56.0,pear,1.389,lb
-57,57.0,57.0,57.0,peach,1.767,lb
-58,58.0,58.0,58.0,strawberry,1.613,12 oz
-59,59.0,59.0,59.0,grapes,2.378,lb
-60,60.0,60.0,60.0,cherries,3.828,lb
-61,61.0,61.0,61.0,potatoe,0.685,lb
-62,62.0,62.0,62.0,iceburg lettuce,0.967,lb
-63,63.0,63.0,63.0,tomato,1.559,lb
-64,64.0,64.0,64.0,cabbage,0.687,lb
-65,65.0,65.0,65.0,celery,1.018,lb
-66,66.0,66.0,66.0,pepper,2.521,lb
-67,67.0,67.0,67.0,brocolli,1.758,lb
-68,68.0,68.0,68.0,orange juice,2.634,12 oz
-69,69.0,69.0,69.0,bean,1.376,lb
-70,70.0,70.0,70.0,sugar,0.684,lb
-71,71.0,71.0,71.0,margarine,1.153,lb
-72,72.0,72.0,72.0,peanut butter,1.961,lb
-73,73.0,73.0,73.0,coffee,5.234,lb
-74,74.0,74.0,74.0,wine,11.928,lb
-75,75.0,75.0,75.0,all uncooked ground beef,3.497,lb
-76,76.0,76.0,76.0,all uncooked beef roasts,4.439,lb
-77,77.0,77.0,77.0,other steaks,5.833,lb
-78,78.0,78.0,78.0,other beefs,3.865,lb
-79,79.0,79.0,79.0,other pork chops,3.55,lb
-80,80.0,80.0,80.0,other pork,2.566,lb
-81,81.0,81.0,81.0,chicken breast boneless,3.127,lb
-82,82.0,82.0,82.0,romaine lettuce,1.638,lb
-83,83.0,83.0,83.0,salt,2.5,oz
-84,84.0,84.0,84.0,cinnamon,5.0,oz
-85,85.0,85.0,85.0,paprika,3.5,oz
-86,86.0,86.0,86.0,garlic powder,4.5,oz
-87,87.0,87.0,87.0,onion powder,4.25,oz
-88,88.0,88.0,88.0,turmeric,6.0,oz
-89,89.0,89.0,89.0,ginger,5.5,oz
-90,90.0,90.0,90.0,cumin,4.75,oz
-91,91.0,91.0,91.0,oregano,3.75,oz
-92,92.0,92.0,92.0,basil,3.25,oz
-93,93.0,93.0,93.0,thyme,3.75,oz
-94,94.0,94.0,94.0,nutmeg,6.5,oz
-95,95.0,95.0,95.0,cloves,7.0,oz
-96,96.0,96.0,96.0,tomatoes,1.99,lb
-97,97.0,97.0,97.0,black pepper,18.99,oz
-98,98.0,98.0,98.0,chili,2.5,each
-99,99.0,99.0,99.0,coriander,12.99,oz
-100,100.0,100.0,100.0,jalapenos,1.25,each
-101,101.0,101.0,101.0,mango,1.5,each
-102,102.0,102.0,102.0,oil,4.99,bottle
-103,103.0,103.0,103.0,olives,5.99,jar
-104,104.0,104.0,104.0,onions,1.29,lb
-105,105.0,105.0,105.0,peppers,2.49,lb
-106,106.0,106.0,106.0,pork loin,6.99,lb
-107,107.0,107.0,107.0,buttermilk,2.5,lb
-108,108.0,108.0,108.0,corn flakes cereal,4.0,lb
-109,109.0,109.0,109.0,beer,1.5,lb
-110,110.0,110.0,110.0,bay leaves,20.0,lb
-111,111.0,111.0,111.0,asparagus,4.5,lb
-112,112.0,112.0,112.0,pears,2.0,lb
-113,113.0,113.0,113.0,green onions,1.5,lb
-114,114.0,114.0,114.0,purple onions,1.2,lb
-115,115.0,115.0,115.0,white onions,1.0,lb
-116,116.0,116.0,116.0,baking powder,5.0,lb
-117,117.0,117.0,117.0,sweet potatoes,1.5,lb
-118,118.0,118.0,118.0,balsamic vinegar,5.0,lb
-119,119.0,119.0,119.0,salmon,15.0,lb
-120,120.0,120.0,120.0,black beans,1.8,lb
-121,121.0,121.0,121.0,baking soda,2.5,lb
-122,122.0,122.0,122.0,bay leaf,20.0,lb
-123,123.0,123.0,123.0,beans,1.5,lb
-124,124.0,124.0,124.0,bok choy,3.0,lb
-125,125.0,125.0,125.0,bell pepper,3.5,lb
-126,126.0,126.0,126.0,sesame seeds,8.0,lb
-127,127.0,127.0,127.0,sesame oil,6.5,lb
-0,,,,brown sugar,2.5,lb
-1,,,,vegetable oil,3.0,lb
-2,,,,olive oil,6.5,lb
-3,,,,shallots,4.0,lb
-4,,,,carrots,1.2,lb
-5,,,,capers,15.0,lb
-6,,,,cardamom,30.0,lb
-7,,,,mozarella cheese,12.0,lb
-0,,,,chicken broth,2.5,lb
-1,,,,chicken breast,5.5,lb
+ingredient,price,metric
+lemon,0.99,lb
+cream,15.96,lb
+yogurt,4.46,lb
+vanilla,111.84,lb
+shrimp,12.99,lb
+cilantro,4.33,lb
+jalapeno,1.15,lb
+parsley,4.97,lb
+vinegar,1.24,lb
+tortillas,4.78,lb
+red pepper,1.5,lb
+fish,9.99,lb
+avocado,2.58,lb
+lime,2.0,lb
+chicken stock,0.7,lb
+parmesan,4.99,lb
+vegetable stock,0.7,lb
+beef stock,0.7,lb
+garam masala,79.88,lb
+spinach,2.99,lb
+soy sauce,1.49,lb
+flour,0.528,lb
+rice,0.755,lb
+spaghetti,1.248,lb
+"bread, white",1.49,lb
+"bread, whole wheat",1.938,lb
+cookies,3.317,lb
+ground chuck beef,3.211,lb
+ground beef,2.774,lb
+ground beef extra lean,3.878,lb
+chuck roast,3.64,lb
+chuck roast boneless,4.306,lb
+round roast boneless,4.429,lb
+round roast,4.125,lb
+beef for stew,4.326,lb
+steak,4.554,lb
+sirloin steak,5.271,lb
+bacon,4.84,lb
+pork chops bone-in,3.737,lb
+pork chops boneless,4.065,lb
+ham,2.294,lb
+bologna,3.033,lb
+whole chicken,1.305,lb
+chicken breast bone-in,2.307,lb
+chicken legs,1.452,lb
+turket,1.581,lb
+eggs,1.683,dozen
+milk,3.622,gal
+butter,3.605,lb
+american cheese,3.922,lb
+cheddar cheese,5.443,lb
+ice cream,4.854,lb
+apples,1.317,lb
+banana,0.614,lb
+orange,1.014,lb
+grapefruit,1.055,lb
+pear,1.389,lb
+peach,1.767,lb
+strawberry,1.613,12 oz
+grapes,2.378,lb
+cherries,3.828,lb
+potatoe,0.685,lb
+iceburg lettuce,0.967,lb
+tomato,1.559,lb
+cabbage,0.687,lb
+celery,1.018,lb
+pepper,2.521,lb
+brocolli,1.758,lb
+orange juice,2.634,12 oz
+bean,1.376,lb
+sugar,0.684,lb
+margarine,1.153,lb
+peanut butter,1.961,lb
+coffee,5.234,lb
+wine,11.928,lb
+all uncooked ground beef,3.497,lb
+all uncooked beef roasts,4.439,lb
+other steaks,5.833,lb
+other beefs,3.865,lb
+other pork chops,3.55,lb
+other pork,2.566,lb
+chicken breast boneless,3.127,lb
+romaine lettuce,1.638,lb
+salt,2.5,oz
+cinnamon,5.0,oz
+paprika,3.5,oz
+garlic powder,4.5,oz
+onion powder,4.25,oz
+turmeric,6.0,oz
+ginger,5.5,oz
+cumin,4.75,oz
+oregano,3.75,oz
+basil,3.25,oz
+thyme,3.75,oz
+nutmeg,6.5,oz
+cloves,7.0,oz
+tomatoes,1.99,lb
+black pepper,18.99,oz
+chili,2.5,each
+coriander,12.99,oz
+jalapenos,1.25,each
+mango,1.5,each
+oil,4.99,bottle
+olives,5.99,jar
+onions,1.29,lb
+peppers,2.49,lb
+pork loin,6.99,lb
+buttermilk,2.5,lb
+corn flakes cereal,4.0,lb
+beer,1.5,lb
+bay leaves,20.0,lb
+asparagus,4.5,lb
+pears,2.0,lb
+green onions,1.5,lb
+purple onions,1.2,lb
+white onions,1.0,lb
+baking powder,5.0,lb
+sweet potatoes,1.5,lb
+balsamic vinegar,5.0,lb
+salmon,15.0,lb
+black beans,1.8,lb
+baking soda,2.5,lb
+bay leaf,20.0,lb
+beans,1.5,lb
+bok choy,3.0,lb
+bell pepper,3.5,lb
+sesame seeds,8.0,lb
+sesame oil,6.5,lb
+brown sugar,2.5,lb
+vegetable oil,3.0,lb
+olive oil,6.5,lb
+shallots,4.0,lb
+carrots,1.2,lb
+capers,15.0,lb
+cardamom,30.0,lb
+mozarella cheese,12.0,lb
+chicken broth,2.5,lb
+chicken breast,5.5,lb
